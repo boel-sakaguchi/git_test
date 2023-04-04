@@ -1,0 +1,14 @@
+header p{
+    background-color: #999;
+}
+
+main p{
+    background-color: aquamarine;
+}
+main p:nth-child(1){
+    background-color: #895;
+}
+
+footer p{
+    background-color: #985;
+}
